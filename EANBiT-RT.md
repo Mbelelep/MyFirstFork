@@ -1,7 +1,7 @@
 # Add your name here
 
-Name: 
+Name: Peter
 
-Instituition: 
+Instituition: KIDH, TZ
 
-Tagline: 
+Tagline: Happy being here
